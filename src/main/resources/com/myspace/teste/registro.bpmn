@@ -35,7 +35,7 @@
       <bpmn2:incoming>_BC27DAAD-BE63-48B2-B13B-3E6CC8E8CFB6</bpmn2:incoming>
       <bpmn2:outgoing>_EC9DE1D1-F268-4463-9DDC-21190DE25048</bpmn2:outgoing>
       <bpmn2:script><![CDATA[System.out.println(">>>>> Teste processo.");
-System.out.println("   Campo 1: "]]></bpmn2:script>
+System.out.println("   Campo 1: ");]]></bpmn2:script>
     </bpmn2:scriptTask>
     <bpmn2:startEvent id="_F7FB8C0C-5F56-4647-8EA1-EE6ECB5EEC5B">
       <bpmn2:outgoing>_BC27DAAD-BE63-48B2-B13B-3E6CC8E8CFB6</bpmn2:outgoing>
